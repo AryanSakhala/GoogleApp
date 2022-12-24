@@ -15,6 +15,7 @@ This app is build in R shiny
 * Last Updated
 * Current Version
 * Android Version
+<hr>
 
 ## App has 3 main function:
 * Plotting - Visualise
